@@ -1,0 +1,15 @@
+html {
+  text-align: center;
+  background-color: black;
+  font-family: Verdana;
+}
+h1 {
+  color: white;
+}
+a {
+  color: aquamarine;
+}
+.copyright {
+  color: gray;
+  text-align: right !important;
+}
