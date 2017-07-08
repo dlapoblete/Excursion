@@ -5,9 +5,22 @@ html {
 }
 h1 {
   color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+h2 {
+  color: gray;
+  font-size: 21px;
+  font-weight: normal;
 }
 a {
   color: aquamarine;
+  font-size: 16px;
+}
+h1.guide,
+h1.coming {
+  font-weight: 300;
+  font-size: 42px;
 }
 .copyright {
   color: gray;
